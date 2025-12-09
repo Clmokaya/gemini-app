@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "826204542796",
+    "project_id": "pwani-chat-app-2",
+    "storage_bucket": "pwani-chat-app-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826204542796:android:e273c2c437696e5edca1e9",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZHWX3W_2gciHO7slv0gLjUv5Gx-_qaok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826204542796:android:16c84013cc462c15dca1e9",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZHWX3W_2gciHO7slv0gLjUv5Gx-_qaok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
